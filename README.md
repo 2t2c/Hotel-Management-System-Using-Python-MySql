@@ -1,5 +1,5 @@
 # Hotel-Management-System-Using-Python-MySql
-GUI Using Tkinter
+GUI Using Tkinter  
 Prerequisites
 
 For Image assets:-
